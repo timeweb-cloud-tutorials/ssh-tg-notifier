@@ -1,3 +1,7 @@
+- 🔗 **Оригинальный репозиторий**: [ssh-tg-notifier](https://github.com/vadim-belous/ssh-tg-notifier)
+- ✍️ **Автор**: [Vadim Belous](https://github.com/vadim-belous) 
+- 📖 **Репозиторий используется в статье**: [Hardening: укрепление защиты на сервере](https://timeweb.cloud/tutorials/servers/hardening-ukreplenie-zashchity-na-servere)
+
 # SSH Telegram Notifier
 
 Скрипт для уведомления в Telegram о логине пользователя по SSH
